@@ -49,11 +49,11 @@
    
 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40" width="52" alt="html logo"  />
-  <img src="  https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="52" alt="css logo"  />
-  <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="52" alt="css logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 
-<img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
 
 
   
