@@ -1,7 +1,5 @@
 
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Esraa-alii&label=Profile%20views&color=0e75b6&style=flat" alt="Esraa Ali" />
 </div>
@@ -26,7 +24,7 @@
 
 <p align="center">Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/esraa-ali-2754a61b0
+<a target="_blank" href="www.linkedin.com/in/esraa-ali-2754a61b0
 "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:esraaaliiii4@gmail.com"
@@ -46,14 +44,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-   <br>
+   
 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40" width="52" alt="html logo"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="52" alt="css logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" width="52" alt="bootstrap logo"  />
+  <img src="  https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="52" alt="css logo"  />
+  <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
+
+<img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
 
 
   
@@ -92,7 +90,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraa-alii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,HTML&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&langs_count=10&theme=tokyonight&layout=compact" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
 </div>
 
