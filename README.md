@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraa-alii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,HTML&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&langs_count=10&theme=tokyonight&layout=compact" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
 </div>
 
