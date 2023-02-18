@@ -90,8 +90,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&langs_count=10&theme=tokyonight&layout=compact" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&langs_count=10&theme=tokyonight&layout=compact" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="250" alt="languages graph"  />
 </div>
 
 
