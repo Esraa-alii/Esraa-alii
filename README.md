@@ -1,19 +1,4 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**Esraa-alii/Esraa-alii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Esraa-alii&label=Profile%20views&color=0e75b6&style=flat" alt="Esraa Ali" />
@@ -109,8 +94,10 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Esraa-alii&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Esraa-alii&theme=radical&utcOffset=8) -->
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&theme=radical)](https://github.com/Esraa-alii/github-readme-stats) -->
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Esraa-alii&theme=radical)](https://github.com/Esraa-alii/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraa-alii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,HTML&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/Esraa-alii/github-readme-stats) -->
 
