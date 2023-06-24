@@ -90,23 +90,11 @@
 
 # 📊 Github Stats:
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esraa-alii&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Esraa-alii&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Esraa-alii&theme=radical&utcOffset=8) -->
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraa-alii&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook,HTML&count_private=true" height="150" alt="stats graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&locale=en&theme=tokyonight&count_private=true" height="150" alt="languages graph"  />
-</div>
- -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/Esraa-alii/github-readme-stats) -->
 
-<!-- <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esraa-alii&theme=tokyonight"> -->
- <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Esraa-alii&theme=tokyonight"> -->
- <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Esraa-alii&theme=tokyonight&utcOffset=8"> -->
- <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=Esraa-alii&theme=tokyonight"> -->
  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-alii&show_icons=true&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-alii&theme=tokyonight">
 </p>
 
